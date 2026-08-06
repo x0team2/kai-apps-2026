@@ -53,10 +53,30 @@
 
 [b4uchat 2.5x meta.zip](https://x0team2.github.io/kai-apps-2026/zips/b4uchat%202.5x%20meta.zip)
 
+## teenboysapps.2.5.zip
+
+[teenboysapps.2.5.zip](https://x0team2.github.io/kai-apps-2026/zips/teenboysapps.2.5.zip)
+
+## jacksapps.2.5.zip
+
+[jacksapps.2.5.zip](https://x0team2.github.io/kai-apps-2026/zips/jacksapps.2.5.zip)
+
+## zblocksapps.2.5.zip
+
+[zblocksapps.2.5.zip](https://x0team2.github.io/kai-apps-2026/zips/zblocksapps.2.5.zip)
+
+## telnetd.zip
+
+[telnetd.zip](https://x0team2.github.io/kai-apps-2026/zips/telnetd.zip)
+
+## wallace-0.1.zip
+
+[wallace-0.1.zip](https://x0team2.github.io/kai-apps-2026/zips/wallace-0.1.zip)
+
+## wallace-lite-0.1.zip
+
+[wallace-lite-0.1.zip](https://x0team2.github.io/kai-apps-2026/zips/wallace-lite-0.1.zip)
 
 
 
-
-
-
-Last Updated: 2026-08-06 04:33:28
+Last Updated: 2026-08-06 05:48:48
