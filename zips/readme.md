@@ -1,3 +1,5 @@
+## KaiOS 2.5+ Apps
+
 ## filemanager.gaiamobile.org.zip
 
 [filemanager.gaiamobile.org.zip](https://x0team2.github.io/kai-apps-2026/zips/filemanager.gaiamobile.org.zip)
@@ -35,4 +37,26 @@
 [x0browserlite.com.zip](https://x0team2.github.io/kai-apps-2026/zips/x0browserlite.com.zip)
 
 
-Last Updated: 2026-08-06 04:14:02
+## facebook-2.0.3.46.zip
+
+[facebook-2.0.3.46.zip](https://x0team2.github.io/kai-apps-2026/zips/facebook-2.0.3.46.zip)
+
+## youtube-1.32.55.k.zip
+
+[youtube-1.32.55.k.zip](https://x0team2.github.io/kai-apps-2026/zips/youtube-1.32.55.k.zip)
+
+## youtube-1.92.53.j.zip
+
+[youtube-1.92.53.j.zip](https://x0team2.github.io/kai-apps-2026/zips/youtube-1.92.53.j.zip)
+
+## b4uchat 2.5x meta.zip
+
+[b4uchat 2.5x meta.zip](https://x0team2.github.io/kai-apps-2026/zips/b4uchat%202.5x%20meta.zip)
+
+
+
+
+
+
+
+Last Updated: 2026-08-06 04:33:28
