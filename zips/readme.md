@@ -79,4 +79,19 @@
 
 
 
-Last Updated: 2026-08-06 05:48:48
+
+## omnisd.2.5.zip
+
+[omnisd.2.5.zip](https://x0team2.github.io/kai-apps-2026/zips/omnisd.2.5.zip)
+
+## pornhub.2.5.zip
+
+[pornhub.2.5.zip](https://x0team2.github.io/kai-apps-2026/zips/pornhub.2.5.zip)
+
+## x0-all.2.5.zip
+
+[x0-all.2.5.zip](https://x0team2.github.io/kai-apps-2026/zips/x0-all.2.5.zip)
+
+
+
+Last Updated: 2026-08-07 03:14:21
