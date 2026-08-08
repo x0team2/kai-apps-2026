@@ -94,4 +94,10 @@
 
 
 
-Last Updated: 2026-08-07 03:14:21
+
+## chat.max.global.2.5.zip
+
+[chat.max.global.2.5.zip](https://x0team2.github.io/kai-apps-2026/zips/chat.max.global.2.5.zip)
+
+
+Last Updated: 2026-08-08 12:13:51
