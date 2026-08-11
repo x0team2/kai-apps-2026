@@ -93,11 +93,24 @@
 [x0-all.2.5.zip](https://x0team2.github.io/kai-apps-2026/zips/x0-all.2.5.zip)
 
 
-
-
 ## chat.max.global.2.5.zip
 
 [chat.max.global.2.5.zip](https://x0team2.github.io/kai-apps-2026/zips/chat.max.global.2.5.zip)
 
+## chat.max.private.2.5.zip
 
-Last Updated: 2026-08-08 12:13:51
+[chat.max.private.2.5.zip](https://x0team2.github.io/kai-apps-2026/zips/chat.max.private.2.5.zip)
+
+
+## x0-store-client.2.5.zip
+
+[x0-store-client.2.5.zip](https://x0team2.github.io/x0-store-kaios-2026/app-zip/x0-store-client.2.5.zip)
+
+
+
+## V Droid Games 1.0.zip
+
+[V Droid Games 1.0.zip](https://x0team2.github.io/kai-apps-2026/zips/V Droid Games 1.0.zip)
+
+
+Last Updated: 2026-08-11 08:39:40
