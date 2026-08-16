@@ -36,7 +36,6 @@
 
 [x0browserlite.com.zip](https://x0team2.github.io/kai-apps-2026/zips/x0browserlite.com.zip)
 
-
 ## facebook-2.0.3.46.zip
 
 [facebook-2.0.3.46.zip](https://x0team2.github.io/kai-apps-2026/zips/facebook-2.0.3.46.zip)
@@ -77,9 +76,6 @@
 
 [wallace-lite-0.1.zip](https://x0team2.github.io/kai-apps-2026/zips/wallace-lite-0.1.zip)
 
-
-
-
 ## omnisd.2.5.zip
 
 [omnisd.2.5.zip](https://x0team2.github.io/kai-apps-2026/zips/omnisd.2.5.zip)
@@ -92,7 +88,6 @@
 
 [x0-all.2.5.zip](https://x0team2.github.io/kai-apps-2026/zips/x0-all.2.5.zip)
 
-
 ## chat.max.global.2.5.zip
 
 [chat.max.global.2.5.zip](https://x0team2.github.io/kai-apps-2026/zips/chat.max.global.2.5.zip)
@@ -101,16 +96,23 @@
 
 [chat.max.private.2.5.zip](https://x0team2.github.io/kai-apps-2026/zips/chat.max.private.2.5.zip)
 
-
 ## x0-store-client.2.5.zip
 
 [x0-store-client.2.5.zip](https://x0team2.github.io/x0-store-kaios-2026/app-zip/x0-store-client.2.5.zip)
 
-
-
 ## V Droid Games 1.0.zip
 
-[V Droid Games 1.0.zip](https://x0team2.github.io/kai-apps-2026/zips/V Droid Games 1.0.zip)
+[V Droid Games 1.0.zip](https://x0team2.github.io/kai-apps-2026/zips/V%20Droid%20Games%201.0.zip)
+
+## x0.store.client.lite.zip
+
+[x0.store.client.lite.zip](https://x0team2.github.io/kai-apps-2026/zips/x0.store.client.lite.zip)
 
 
-Last Updated: 2026-08-11 08:39:40
+
+## x0.store.client.zip
+
+[x0.store.client.zip](https://x0team2.github.io/kai-apps-2026/zips/x0.store.client.zip)
+
+
+Last Updated: 2026-08-16 09:38:21
