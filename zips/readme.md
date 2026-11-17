@@ -125,4 +125,10 @@
 [adbroot.zip](https://x0team2.github.io/kai-apps-2026/zips/adbroot.zip)
 
 
-Last Updated: 2026-08-18 12:48:50
+
+## jio.stc.launcher.gaiamobile.org.zip
+
+[jio.stc.launcher.gaiamobile.org.zip](https://x0team2.github.io/kai-apps-2026/zips/jio.stc.launcher.gaiamobile.org.zip)
+
+
+Last Updated: 2026-11-17 07:12:10
