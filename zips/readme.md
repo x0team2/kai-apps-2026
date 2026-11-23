@@ -131,4 +131,14 @@
 [jio.stc.launcher.gaiamobile.org.zip](https://x0team2.github.io/kai-apps-2026/zips/jio.stc.launcher.gaiamobile.org.zip)
 
 
-Last Updated: 2026-11-17 07:12:10
+
+## KaiMRE.zip
+
+[KaiMRE.zip](https://x0team2.github.io/kai-apps-2026/zips/KaiMRE.zip)
+
+## KaiTube.zip
+
+[KaiTube.zip](https://x0team2.github.io/kai-apps-2026/zips/KaiTube.zip)
+
+
+Last Updated: 2026-11-23 10:45:48
